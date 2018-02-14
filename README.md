@@ -5,10 +5,9 @@ Parts for mounting the [EM3242 hall effect sensor
 [teensy_to_em3242 shield](https://github.com/willdickson/teensy_to_em3242) on
 the little hawk wind vane.
 
-
 ### Top Plate
 
-![top_plate](images/top.jpg)
+![top_plate](images/top.png)
 
 ### Bottom Plate
 
