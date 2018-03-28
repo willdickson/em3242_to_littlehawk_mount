@@ -9,3 +9,7 @@ Long Standoffs
 --------------
 3.5"    Nylon Standoff, female-female, 4-40 thread,  PN  96110A115,  Qty=6
 4.0"    Nylon Standoff, female-female, 4-40 thread,  PN  96110A119,  Qty=6 
+
+Magnets
+-------
+1/16" x 1/8" cylinder magnets, PN D12-N52,  K&J Magnetics, Qty=1
